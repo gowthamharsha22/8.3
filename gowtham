@@ -1,0 +1,23 @@
+Here’s a design for a JavaFX Tip Calculator app with a bill amount field, tip percentage selector, number of people, and a Calculate button that responds to user interactions.
+Tip Calculator
+Split the bill, share the smile.
+Bill amount (₹)
+1200
+Choose tip percentage
+
+5%
+
+10%
+
+15%
+
+20%
+Number of people
+2
+1612
+Tip amount
+₹180.00
+Total bill
+₹1,380.00
+Per person
+₹690.00
